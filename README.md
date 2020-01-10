@@ -2,12 +2,12 @@
 
 ## Project setup
 ```
-pnpm install
+cnpm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-pnpm run serve
+cnpm run serve
 ```
 
 ### Compiles and minifies for production
