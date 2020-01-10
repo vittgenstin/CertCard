@@ -7,7 +7,7 @@ cnpm install
 
 ### Compiles and hot-reloads for development
 ```
-cnpm run serve
+cnpm run dev
 ```
 
 ### Compiles and minifies for production
